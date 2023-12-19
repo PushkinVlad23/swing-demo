@@ -19,7 +19,7 @@ test {
 
 launch4j {
     mainClassName = 'src/main/java/SwingDemo.java'
-    icon = "/icons/swingDemo.ico"
+    icon = "build/icons/swingDemo.ico"
 }
 
 tasks.withType(JavaCompile) {
