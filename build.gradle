@@ -18,7 +18,7 @@ test {
 }
 
 launch4j {
-    mainClassName = 'com.example.MainClass'
+    mainClassName = 'src/main/java/SwingDemo.java'
 }
 
 tasks.withType(JavaCompile) {
